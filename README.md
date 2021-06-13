@@ -19,4 +19,4 @@ The black keys are (in-order) with their keyboard representation:
 - Ab -> 'l'
 - Bb -> 'k'
 
-The full website can be accessed by this url link -> https://graygillis.github.io/JavaScript-Piano/Piano/
+[Click here to access the full website](https://graygillis.github.io/JavaScript-Piano/Piano/)
